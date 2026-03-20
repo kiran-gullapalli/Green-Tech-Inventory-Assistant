@@ -1,0 +1,32 @@
+{
+  "name": "green-tech-inventory-server",
+  "version": "1.0.0",
+  "description": "Backend for Green-Tech Inventory Assistant",
+  "main": "index.js",
+  "type": "commonjs",
+  "engines": {
+    "node": "^22.3.0",
+    "npm": "^10.0.0"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "seed": "node db/seed.js",
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "better-sqlite3": "^9.2.2",
+    "dotenv": "^16.4.5",
+    "@google/generative-ai": "^0.19.0",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "jest": "^29.7.0",
+    "supertest": "^6.3.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
