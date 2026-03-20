@@ -1,8 +1,8 @@
-require('dotenv').config();
+const path = require('path');
+require('dotenv').config({ path: path.join(__dirname, '../.env') });
 const express = require('express');
 const inventoryRoutes = require('./routes/inventory');
 const aiRoutes = require('./routes/ai');
-const path = require('path');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
