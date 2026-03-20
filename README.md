@@ -1,8 +1,9 @@
 # Green-Tech Inventory Assistant - Project Report
 
-**Candidate Name:** Kiran Gullapalli
-**Scenario Chosen:** Green-Tech Inventory Assistant (Sustainability-focused Inventory Management)
-**Estimated Time Spent:** ~16hours (Core development, AI integration, and Refinement)
+### **Candidate Name:** Kiran Gullapalli
+### **Scenario Chosen:** Green-Tech Inventory Assistant (Sustainability-focused Inventory Management)
+### **Estimated Time Spent:** ~16hours (Core development, AI integration, and Refinement)
+### youtube link: https://youtu.be/kdmvt2w8m7M
 
 ---
 
